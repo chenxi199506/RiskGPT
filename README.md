@@ -5,4 +5,7 @@ Individuals may resort to online searches for disease risk factors to gain guida
 
 The first demo of RISK-GPT database was available on https://chatgptmodel.shinyapps.io/riskgpt/
 
-This database have much room for improvement and keep updating everyday to include more risk factors in latest literature
+<img width="846" alt="截图_20230209074302" src="https://user-images.githubusercontent.com/77444305/217676976-9ca4a6fb-de32-4b33-b283-69d118ed08b3.png">
+
+
+This version of RISK-GPT database still has much room for improvement and keeps automatically updating every day to include more risk factors from the latest literature.
